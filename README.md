@@ -76,7 +76,7 @@ email:
   smtp_ssl: 'true'
   default_email_suffix: '@example.com'
 #jenkins_admin_user: admin
-#jenkins_admin_password: admin
+#jenkins_admin_password_file: /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 Take a look at the defaults/main.yml file which contains all possible variables.

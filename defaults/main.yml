@@ -24,4 +24,4 @@ prefix: "/"
 java_version: "openjdk-7"
 jenkins_updates_url: "https://updates.jenkins.io/current/update-center.json"
 # jenkins_admin_user: admin
-# jenkins_admin_password: recommended to be put a vault file
+# jenkins_admin_password_file: initial secret file which has password
